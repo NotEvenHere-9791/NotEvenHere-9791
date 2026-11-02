@@ -25,7 +25,7 @@
 - 🐍 In Python development.
 - 🖥️ Exploring desktop application development using PySide6.
 - ⚙️ Learning C++ and database management with SQLite.
-- 🎯 My goal is to build useful, practical software.
+- 🎯 Goal is to build useful, practical software.
 - 🚀 Always curious about how technology works.
 
 ---
