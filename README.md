@@ -3,9 +3,9 @@
 
 <div align="center">
 
-# 👋 Hello, World! I'm NotEvenHere-9791
+# 👋 Hello! I'm NotEvenHere-9791
 
-### 💻 Student | Aspiring Developer | Tech Enthusiast
+### 💻 Developer | Full Stack | Tech Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Learning+%26+Building+Every+Day;Python+Developer+in+Progress;Exploring+Modern+Technologies;Turning+Ideas+Into+Code" alt="Typing SVG" />
 
@@ -21,8 +21,8 @@
 ## 🧑‍💻 About Me
 
 
-- 🌱 Currently learning and improving my programming skills.
-- 🐍 Interested in Python development.
+- 🌱 Improving my programming skills.
+- 🐍 In Python development.
 - 🖥️ Exploring desktop application development using PySide6.
 - ⚙️ Learning C++ and database management with SQLite.
 - 🎯 My goal is to build useful, practical software.
@@ -85,11 +85,11 @@ Here are some projects I'm building and exploring.
 
 ---
 
-## 💡 My Philosophy
+## 💡 Philosophy
 
 > "First, solve the problem. Then, write the code."
 
-I believe every project is an opportunity to learn something new.
+Believe every project is an opportunity to learn something new.
 
 ---
 
