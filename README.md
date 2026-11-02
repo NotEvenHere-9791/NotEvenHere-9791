@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 👋 Hello, World! I'm NotEvenHere_9791
+# 👋 Hello, World! I'm NotEvenHere-9791
 
 ### 💻 Student | Aspiring Developer | Tech Enthusiast
 
@@ -11,8 +11,8 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/NotEvenHere_9791?style=for-the-badge&logo=github&color=181717)](https://github.com/NotEvenHere_9791)
-[![GitHub stars](https://img.shields.io/github/stars/NotEvenHere_9791?style=for-the-badge&logo=github&color=yellow)](https://github.com/NotEvenHere_9791)
+[![GitHub followers](https://img.shields.io/github/followers/NotEvenHere-9791?style=for-the-badge&logo=github&color=181717)](https://github.com/NotEvenHere-9791)
+[![GitHub stars](https://img.shields.io/github/stars/NotEvenHere-9791?style=for-the-badge&logo=github&color=yellow)](https://github.com/NotEvenHere-9791)
 
 </div>
 
@@ -20,26 +20,6 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.username = "NotEvenHere_9791"
-        self.role = "Student / Aspiring Developer"
-        self.languages = ["Python", "C++", "SQL"]
-        self.frameworks = ["PySide6"]
-        self.interests = [
-            "Software Development",
-            "Desktop Applications",
-            "Problem Solving",
-            "Learning New Technologies"
-        ]
-
-    def say_hello(self):
-        print("Thanks for visiting my profile!")
-
-me = Developer()
-me.say_hello()
-```
 
 - 🌱 Currently learning and improving my programming skills.
 - 🐍 Interested in Python development.
@@ -117,7 +97,7 @@ I believe every project is an opportunity to learn something new.
 
 ### 🌐 Find Me on GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-NotEvenHere__9791-181717?style=for-the-badge&logo=github)](https://github.com/NotEvenHere_9791)
+[![GitHub](https://img.shields.io/badge/GitHub-NotEvenHere-9791-181717?style=for-the-badge&logo=github)](https://github.com/NotEvenHere-9791)
 
 ### ⭐ Thanks for Visiting!
 
