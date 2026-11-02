@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 
-- 🌱 Improving my programming skills.
+- 🌱 Improving programming skills.
 - 🐍 In Python development.
 - 🖥️ Exploring desktop application development using PySide6.
 - ⚙️ Learning C++ and database management with SQLite.
@@ -69,7 +69,6 @@ Here are some projects I'm building and exploring.
 | ⚙️ C++ Experiments | Programming and problem-solving projects | C++ |
 | 🐍 Python Projects | Automation and useful utilities | Python |
 
-> Replace these examples with links to your actual repositories as you publish projects.
 
 ---
 
