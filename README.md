@@ -64,7 +64,7 @@ Here are some projects I'm building and exploring.
 
 | Project | Description | Technologies |
 |---|---|---|
-| 🖥️ Desktop Applications | GUI-based desktop software | Python, PySide6 |
+| [🖥️ Desktop Applications](https://github.com/NotEvenHere-9791/ProductiveBug)| GUI-based desktop software | Python, PySide6 |
 | 🗄️ Database Projects | Database management and queries | SQLite, SQL |
 | ⚙️ C++ Experiments | Programming and problem-solving projects | C++ |
 | 🐍 Python Projects | Automation and useful utilities | Python |
