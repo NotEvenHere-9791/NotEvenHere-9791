@@ -68,7 +68,7 @@ Here are some projects I'm building and exploring.
 | 🗄️ Database Projects | Database management and queries | SQLite, SQL |
 | ⚙️ C++ Experiments | Programming and problem-solving projects | C++ |
 | 🐍 Python Projects | Automation and useful utilities | Python |
-
+| Other Projects |  |
 
 ---
 
