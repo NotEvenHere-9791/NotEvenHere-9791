@@ -72,7 +72,7 @@ Here are some projects I'm building and exploring.
 
 ---
 
-## 📈 My Developer Journey
+##  My Developer Journey
 
 - [x] Started learning programming
 - [x] Explored Python and C++
