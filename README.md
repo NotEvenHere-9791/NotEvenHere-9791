@@ -78,9 +78,6 @@ Here are some projects I'm building and exploring.
 - [x] Explored Python and C++
 - [x] Started exploring databases
 - [x] Build advanced PySide6 applications
-- [ ] Develop and publish open-source projects
-- [ ] Contribute to other developers' projects
-- [ ] Keep learning and improving
 
 ---
 
