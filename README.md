@@ -11,7 +11,7 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/NotEvenHere-9791?style=for-the-badge&logo=github&color=181717)](https://github.com/NotEvenHere-9791)
+[![GitHub followers](https://img.shields.io/github/followers/NotEvenHere-9791?style=for-the-badge&cacheSeconds=40)](https://github.com/NotEvenHere-9791)
 [![GitHub stars](https://img.shields.io/github/stars/NotEvenHere-9791?style=for-the-badge&logo=github&color=yellow)](https://github.com/NotEvenHere-9791)
 
 </div>
