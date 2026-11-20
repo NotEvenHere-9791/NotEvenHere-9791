@@ -21,12 +21,12 @@
 ## About Me
 
 
-- 🌱 Improving programming skills.
-- 🐍 In Python development.
-- 🖥️ Exploring desktop application development using PySide6.
-- ⚙️ Learning C++ and database management with SQLite.
-- 🎯 Goal is to build useful, practical software.
-- 🚀 Always curious about how technology works.
+- Improving programming skills.
+- In Python development.
+- Exploring desktop application development using PySide6.
+- Learning C++ and database management with SQLite.
+- Goal is to build useful, practical software.
+- Always curious about how technology works.
 
 ---
 
@@ -91,11 +91,11 @@ Believe every project is an opportunity to learn something new.
 
 <div align="center">
 
-### 🌐 Find Me on GitHub
+### Find Me on GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-NotEvenHere-9791-181717?style=for-the-badge&logo=github)](https://github.com/NotEvenHere-9791)
 
-### ⭐ Thanks for Visiting!
+### Thanks for Visiting!
 
 **Keep Learning. Keep Building. Keep Exploring.**
 
