@@ -7,7 +7,7 @@
 
 ### 💻 Developer | Full Stack | Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Learning+%26+Building+Every+Day;Python+Developer+in+Progress;Exploring+Modern+Technologies;Turning+Ideas+Into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code" alt="Typing SVG" />
 
 <br/>
 
