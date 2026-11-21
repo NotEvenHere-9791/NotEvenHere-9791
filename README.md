@@ -9,9 +9,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/NotEvenHere-9791?style=for-the-badge&cacheSeconds=40)](https://github.com/NotEvenHere-9791)
-[![GitHub stars](https://img.shields.io/github/stars/NotEvenHere-9791?style=for-the-badge&logo=github&color=yellow)](https://github.com/NotEvenHere-9791)
-
 </div>
 
 ---
@@ -32,27 +29,15 @@
 
 ### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+##### Python | C++ | SQL
 
 ### Frameworks & Libraries
 
-<p>
-  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+##### Pyside | SQlite 
 
 ### Development Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+##### Github | VS code | Linux
 
 ---
 
@@ -89,9 +74,6 @@ Believe every project is an opportunity to learn something new.
 
 <div align="center">
 
-### Find Me on GitHub
-
-[![GitHub](https://img.shields.io/badge/GitHub-NotEvenHere-9791-181717?style=for-the-badge&logo=github)](https://github.com/NotEvenHere-9791)
 
 ### Thanks for Visiting!
 
